@@ -1,0 +1,13 @@
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web Service Meteo\bin\Debug\netcoreapp3.1\Web Service Meteo.exe
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web Service Meteo\bin\Debug\netcoreapp3.1\Web Service Meteo.deps.json
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web Service Meteo\bin\Debug\netcoreapp3.1\Web Service Meteo.runtimeconfig.json
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web Service Meteo\bin\Debug\netcoreapp3.1\Web Service Meteo.runtimeconfig.dev.json
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web Service Meteo\bin\Debug\netcoreapp3.1\Web Service Meteo.dll
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web Service Meteo\bin\Debug\netcoreapp3.1\Web Service Meteo.pdb
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web Service Meteo\obj\Debug\netcoreapp3.1\Web Service Meteo.AssemblyInfoInputs.cache
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web Service Meteo\obj\Debug\netcoreapp3.1\Web Service Meteo.AssemblyInfo.cs
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web Service Meteo\obj\Debug\netcoreapp3.1\Web Service Meteo.csproj.CoreCompileInputs.cache
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web Service Meteo\obj\Debug\netcoreapp3.1\Web Service Meteo.dll
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web Service Meteo\obj\Debug\netcoreapp3.1\Web Service Meteo.pdb
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web Service Meteo\obj\Debug\netcoreapp3.1\Web Service Meteo.genruntimeconfig.cache
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web Service Meteo\obj\Debug\netcoreapp3.1\Web Service Meteo.csprojAssemblyReference.cache

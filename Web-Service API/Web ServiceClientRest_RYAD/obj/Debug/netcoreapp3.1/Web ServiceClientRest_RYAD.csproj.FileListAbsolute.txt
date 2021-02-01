@@ -1,0 +1,5 @@
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web ServiceClientRest_RYAD\obj\Debug\netcoreapp3.1\Web ServiceClientRest_RYAD.csprojAssemblyReference.cache
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web ServiceClientRest_RYAD\obj\Debug\netcoreapp3.1\Web ServiceClientRest_RYAD.AssemblyInfoInputs.cache
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web ServiceClientRest_RYAD\obj\Debug\netcoreapp3.1\Web ServiceClientRest_RYAD.AssemblyInfo.cs
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web ServiceClientRest_RYAD\obj\Debug\netcoreapp3.1\Web ServiceClientRest_RYAD.csproj.CoreCompileInputs.cache
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\Web ServiceClientRest_RYAD\bin\Debug\netcoreapp3.1\Web ServiceClientRest_RYAD.exe

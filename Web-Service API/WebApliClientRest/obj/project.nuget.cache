@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "53KeugqcfTVw4OihEVbjVOPDF21tRrdBT1Ppkq3d5mHVAP2qYrdXHDSpnEXcZlR8FjI6LmOTq3j4NACs+VPffA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oujdi\\Desktop\\Projet C#\\WebService\\Web_Server_Avec_RYAD\\WebApliClientRest\\WebApliClientRest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oujdi\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

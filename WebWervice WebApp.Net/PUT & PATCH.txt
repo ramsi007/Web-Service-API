@@ -1,0 +1,12 @@
+ // PUT: api/ws/Client/5
+        public HttpResponseMessage Put(uint id, [FromBody]Client client)
+        {
+            return null;
+        }
+
+        // PUT: api/ws/Client/5
+        public HttpResponseMessage Patch(uint id, [FromBody] Client client)
+        {
+            return null;
+        }
+

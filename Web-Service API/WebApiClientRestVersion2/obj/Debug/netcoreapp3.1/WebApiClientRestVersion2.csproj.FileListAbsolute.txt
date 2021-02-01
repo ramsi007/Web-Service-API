@@ -1,0 +1,13 @@
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApiClientRestVersion2\obj\Debug\netcoreapp3.1\WebApiClientRestVersion2.csprojAssemblyReference.cache
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApiClientRestVersion2\obj\Debug\netcoreapp3.1\WebApiClientRestVersion2.AssemblyInfoInputs.cache
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApiClientRestVersion2\obj\Debug\netcoreapp3.1\WebApiClientRestVersion2.AssemblyInfo.cs
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApiClientRestVersion2\obj\Debug\netcoreapp3.1\WebApiClientRestVersion2.csproj.CoreCompileInputs.cache
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApiClientRestVersion2\bin\Debug\netcoreapp3.1\WebApiClientRestVersion2.exe
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApiClientRestVersion2\bin\Debug\netcoreapp3.1\WebApiClientRestVersion2.deps.json
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApiClientRestVersion2\bin\Debug\netcoreapp3.1\WebApiClientRestVersion2.runtimeconfig.json
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApiClientRestVersion2\bin\Debug\netcoreapp3.1\WebApiClientRestVersion2.runtimeconfig.dev.json
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApiClientRestVersion2\bin\Debug\netcoreapp3.1\WebApiClientRestVersion2.dll
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApiClientRestVersion2\bin\Debug\netcoreapp3.1\WebApiClientRestVersion2.pdb
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApiClientRestVersion2\obj\Debug\netcoreapp3.1\WebApiClientRestVersion2.dll
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApiClientRestVersion2\obj\Debug\netcoreapp3.1\WebApiClientRestVersion2.pdb
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApiClientRestVersion2\obj\Debug\netcoreapp3.1\WebApiClientRestVersion2.genruntimeconfig.cache

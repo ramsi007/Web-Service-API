@@ -1,0 +1,44 @@
+ public class Meteo
+    {
+        [JsonPropertyName("request_state")]
+        public int? RequestState { get; set; }
+
+        [JsonPropertyName("request_key")]
+        public string RequestKey { get; set; }
+
+        [JsonPropertyName("message")]
+        public string Message { get; set; }
+
+        [JsonPropertyName("model_run")]
+        public string ModelRun { get; set; }
+
+        [JsonPropertyName("source")]
+        public string Source { get; set; }
+
+        [JsonPropertyName("2020-11-03 04:00:00")]
+        public MeteoJour MeteoJour { get; set; }
+
+    }
+
+
+
+-----------------------------------------------------
+
+
+ public class MeteoJour
+    {
+        [JsonPropertyName("temperature")]
+        public Temperature Temperature { get; set; }
+
+        [JsonPropertyName("pression")]
+        public Pression Pression { get; set; }
+        
+        [JsonPropertyName("pluie")]
+        public int? Pluie { get; set; }
+
+        public override string ToString()
+        {
+            return "[Meteo du jour : " ;
+        }
+    }
+

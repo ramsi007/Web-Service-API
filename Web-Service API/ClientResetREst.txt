@@ -1,0 +1,23 @@
+List<Repository>
+-----------------------
+[
+  Repository{
+	param1,
+	param2,
+	owner {
+            param1,
+            param2
+           },
+	licence {
+            param1,
+            param2
+           },
+	permission {
+            param1,
+            param2
+           }
+    }
+  Repository{ }
+  Repository{ }
+  Repository{ }
+]

@@ -1,0 +1,28 @@
+C:\Users\Oujdi\Desktop\Web_Server_Avec_RYAD\WebApliClientRest\bin\Debug\netcoreapp3.1\WebApliClientRest.exe
+C:\Users\Oujdi\Desktop\Web_Server_Avec_RYAD\WebApliClientRest\bin\Debug\netcoreapp3.1\WebApliClientRest.deps.json
+C:\Users\Oujdi\Desktop\Web_Server_Avec_RYAD\WebApliClientRest\bin\Debug\netcoreapp3.1\WebApliClientRest.runtimeconfig.json
+C:\Users\Oujdi\Desktop\Web_Server_Avec_RYAD\WebApliClientRest\bin\Debug\netcoreapp3.1\WebApliClientRest.runtimeconfig.dev.json
+C:\Users\Oujdi\Desktop\Web_Server_Avec_RYAD\WebApliClientRest\bin\Debug\netcoreapp3.1\WebApliClientRest.dll
+C:\Users\Oujdi\Desktop\Web_Server_Avec_RYAD\WebApliClientRest\bin\Debug\netcoreapp3.1\WebApliClientRest.pdb
+C:\Users\Oujdi\Desktop\Web_Server_Avec_RYAD\WebApliClientRest\obj\Debug\netcoreapp3.1\WebApliClientRest.csprojAssemblyReference.cache
+C:\Users\Oujdi\Desktop\Web_Server_Avec_RYAD\WebApliClientRest\obj\Debug\netcoreapp3.1\WebApliClientRest.AssemblyInfoInputs.cache
+C:\Users\Oujdi\Desktop\Web_Server_Avec_RYAD\WebApliClientRest\obj\Debug\netcoreapp3.1\WebApliClientRest.AssemblyInfo.cs
+C:\Users\Oujdi\Desktop\Web_Server_Avec_RYAD\WebApliClientRest\obj\Debug\netcoreapp3.1\WebApliClientRest.csproj.CoreCompileInputs.cache
+C:\Users\Oujdi\Desktop\Web_Server_Avec_RYAD\WebApliClientRest\obj\Debug\netcoreapp3.1\WebApliClientRest.dll
+C:\Users\Oujdi\Desktop\Web_Server_Avec_RYAD\WebApliClientRest\obj\Debug\netcoreapp3.1\WebApliClientRest.pdb
+C:\Users\Oujdi\Desktop\Web_Server_Avec_RYAD\WebApliClientRest\obj\Debug\netcoreapp3.1\WebApliClientRest.genruntimeconfig.cache
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApliClientRest\bin\Debug\netcoreapp3.1\WebApliClientRest.exe
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApliClientRest\bin\Debug\netcoreapp3.1\WebApliClientRest.deps.json
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApliClientRest\bin\Debug\netcoreapp3.1\WebApliClientRest.runtimeconfig.json
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApliClientRest\bin\Debug\netcoreapp3.1\WebApliClientRest.runtimeconfig.dev.json
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApliClientRest\bin\Debug\netcoreapp3.1\WebApliClientRest.dll
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApliClientRest\bin\Debug\netcoreapp3.1\WebApliClientRest.pdb
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApliClientRest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApliClientRest\obj\Debug\netcoreapp3.1\WebApliClientRest.csprojAssemblyReference.cache
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApliClientRest\obj\Debug\netcoreapp3.1\WebApliClientRest.AssemblyInfoInputs.cache
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApliClientRest\obj\Debug\netcoreapp3.1\WebApliClientRest.AssemblyInfo.cs
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApliClientRest\obj\Debug\netcoreapp3.1\WebApliClientRest.csproj.CoreCompileInputs.cache
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApliClientRest\obj\Debug\netcoreapp3.1\WebApliClientRest.csproj.CopyComplete
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApliClientRest\obj\Debug\netcoreapp3.1\WebApliClientRest.dll
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApliClientRest\obj\Debug\netcoreapp3.1\WebApliClientRest.pdb
+C:\Users\Oujdi\Desktop\Projet C#\WebService\Web_Server_Avec_RYAD\WebApliClientRest\obj\Debug\netcoreapp3.1\WebApliClientRest.genruntimeconfig.cache

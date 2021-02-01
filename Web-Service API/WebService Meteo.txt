@@ -1,0 +1,32 @@
+"request_state": 200,
+"request_key": "fd543c77e33d6c8a5e218e948a19e487",
+"message": "OK",
+"model_run": "01",
+"source": "internal:GFS:1",
+"2020-11-03 04:00:00": {
+	"temperature": {
+		"2m": 282.8,
+		"sol": 282.7,
+		"500hPa": -0.1,
+		"850hPa": -0.1
+		},
+	"pression": {
+		"niveau_de_la_mer": 102320
+		},
+	"pluie": 0,
+
+------------------------------------------------
+
+Meteo
+-------------------------------------------
+
+Meteo{
+  request_state,
+  "request_key",
+  "message",
+  "model_run",
+  "source",
+  "2020-11-03 04:00:00" { temperature { }, pression { }, pluie }
+  "2020-11-03 07:00:00" { temperature { }, pression { }, pluie }
+  ...
+}

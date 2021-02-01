@@ -1,0 +1,20 @@
+{
+    "nom": "",
+    "prenom": "",
+    "email": "",
+        "adresse1": {
+            "numero": 123,
+            "rue": "",
+            "ville": "",
+            "code_postal": 123
+        },
+        "adresse2": {
+            "numero": 123,
+            "rue": "",
+            "ville": "",
+            "code_postal": 123
+    }
+}
+
+
+https://localhost:44375/api/ws/Utilisateur/2/1
